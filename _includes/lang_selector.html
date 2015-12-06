@@ -1,0 +1,7 @@
+{% assign posts=site.posts | where:"name", page.name | sort: 'path' %}
+{% for post in posts %}
+  <a href="{{ site.baseurl }}{{ post.url }}" class="navbar-brand lang {{ post.lang }}">
+    <img src="{{ site.baseurl }}/static/img/flag_{{ post.lang }}.png"
+         alt="{{ page.lang }}">
+  </a>
+{% endfor %}
