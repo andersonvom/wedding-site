@@ -4,13 +4,11 @@
       <a class="navbar-brand" href="{{ site.baseurl }}/"><i class="fa fa-home"></i></a>
       {% include lang_selector.html %}
     </div>
-    <!--
     <div id="navbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="{{ site.baseurl }}/lodging.html">Lodging</a></li>
-        <li><a href="{{ site.baseurl }}/flying.html">Flying</a></li>
+        <li><a href="{{ site.baseurl }}/{{ _.lodging | slugify }}.html">{{ _.lodging }}</a></li>
+        <li><a href="{{ site.baseurl }}/{{ _.travel | slugify }}.html">{{ _.travel }}</a></li>
       </ul>
     </div>
-    -->
   </div>
 </nav>
