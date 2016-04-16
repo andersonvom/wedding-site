@@ -16,7 +16,8 @@ Setembro de 2016. Diga que faz parte do grupo "Compton Mesquita Wedding
 Room Block" que vai ficar aqui:
 
     Gaithersburg Marriott Washingtonian Center
-    9751 Washingtonian Boulevard, Gaithersburg, MD  20878
+    9751 Washingtonian Boulevard
+    Gaithersburg, MD  20878
 
 Para fazer a reserva você vai precisar de um cartão de crédito
 tradicional (Visa, Mastercard, Amex, etc). O hotel não garante a reserva
