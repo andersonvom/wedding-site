@@ -1,4 +1,3 @@
-# top level stuff you probably don't need to touch
 highlighter: rouge
 markdown: kramdown
 permalink: /:title.html
@@ -7,18 +6,12 @@ gems: [jekyll-paginate]
 port: 3000
 safe: true
 
-
-# edit here to achieve your personal greatness
 url: http://andersonvom.github.io/
 title: Erin and Anderson are getting married
 author: Anderson Mesquita
 description: Things to know about the big day
 email: andersonvom+erinkcompton ((@@)) gmail.com
 google_analytics: UA-31347952-3
-
-
-# needed for travis-ci build
-exclude: [vendor]
 
 defaults:
   - scope:
