@@ -1,6 +1,6 @@
 highlighter: rouge
 markdown: kramdown
-permalink: /:title.html
+permalink: /:categories/:title.html
 paginate: 5
 gems: [jekyll-paginate]
 port: 3000
@@ -23,8 +23,10 @@ defaults:
       type: posts
     values:
       lang: en
+      categories: en
   - scope:
       path: "pt"
       type: posts
     values:
       lang: pt
+      categories: pt
