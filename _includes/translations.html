@@ -1,6 +1,6 @@
 {% assign posts=site.posts | where:"name", page.name %}
 {% for post in posts %}
-  {% if post.lang != page.lang %}
-    <link rel="alternate" hreflang="{{post.lang}}" href="{{post.url}}" />
+  {% if post.categories != page.categories %}
+    <link rel="alternate" hreflang="{{post.categories}}" href="{{post.url}}" />
   {% endif %}
 {% endfor %}
