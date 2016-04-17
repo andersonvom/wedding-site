@@ -1,7 +1,7 @@
 ---
 title: Acomodações
 name: lodging
-lang: pt
+categories: pt
 ---
 
 Aqui vão algumas opções de onde ficar.

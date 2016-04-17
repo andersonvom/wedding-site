@@ -1,7 +1,7 @@
 ---
 title: Getting There
 name: travel
-lang: en
+categories: en
 ---
 
 ## Airports

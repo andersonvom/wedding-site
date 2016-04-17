@@ -1,7 +1,7 @@
 ---
 title: Como Chegar
 name: travel
-lang: pt
+categories: pt
 ---
 
 ## Aeroportos
