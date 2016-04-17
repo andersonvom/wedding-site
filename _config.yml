@@ -18,15 +18,14 @@ defaults:
       path: ""
     values:
       layout: home
-  - scope:
-      path: "en"
-      type: posts
-    values:
-      lang: en
-      categories: en
-  - scope:
-      path: "pt"
-      type: posts
-    values:
-      lang: pt
-      categories: pt
+  # I can't seem to make this work :(
+  # - scope:
+  # -   path: en
+  # -   type: posts
+  # - values:
+  # -   categories: en
+  # - scope:
+  # -   path: pt
+  # -   type: posts
+  # - values:
+  # -   categories: pt
