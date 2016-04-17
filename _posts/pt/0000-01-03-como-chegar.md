@@ -4,7 +4,7 @@ name: travel
 lang: pt
 ---
 
-### Aeroportos
+## Aeroportos
 
 Há três aeroportos que cobrem a região metropolitana de Washington DC:
 Reagan National Airport (DCA), Dulles International Airport (IAD) e
@@ -34,7 +34,7 @@ torno de $55 + $10/pessoa) ou táxi (em torno de $130). Por ser longe, o
 trajeto de lá até DC deve levar um pouco mais de 1h.
 
 
-### Metro
+## Metro
 
 O custo de cada viagem de metrô varia entre $1.75 e $5.90, dependendo do
 dia e do horário. Nos finais de semana, cada viagem pode demorar um
@@ -48,7 +48,7 @@ aplicação para [android][] e [ios][] para ver os horários do metrô em
 tempo real.
 
 
-### Uber
+## Uber
 
 Outra opção conveniente é usar o [Uber][]. Se você não é cadastrado
 ainda, usando o link acima você ganha uma corrida de graça. Ele é

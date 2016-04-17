@@ -4,7 +4,7 @@ name: travel
 lang: en
 ---
 
-### Airports
+## Airports
 
 There are three airports serving the DC area: Reagan National Airport
 (DCA), Dulles International Airport (IAD), and Baltimore-Washington
@@ -24,7 +24,7 @@ For BWI your options are only SuperShuttle for $55 and cabs for $130.
 Total travel time will be over 1h.
 
 
-### Metro
+## Metro
 
 Fares cost between $1.75 and $5.90, depending on the day/hour. It can
 take significantly longer to ride the metro on the weekends. Weekdays
@@ -35,7 +35,7 @@ can be purchased at any metro station and cost $2. There's also an app
 to see arrival times in real time for [android][] e [ios][].
 
 
-### Uber
+## Uber
 
 [Uber][] is also very convenient and widely available.
 

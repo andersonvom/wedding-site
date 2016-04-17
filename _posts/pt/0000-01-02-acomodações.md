@@ -6,7 +6,7 @@ lang: pt
 
 Aqui vão algumas opções de onde ficar.
 
-### Marriott
+## Marriott
 
 A gente conseguiu um desconto de grupo para o [Gaithersburg Marriott
 Washingtonian Center][marriott]. O preço final ficou aproximadamente
@@ -31,7 +31,7 @@ de uma das estações de metrô (Shady Grove). Ele também tem um ônibus que
 transporta pessoas até a estação.
 
 
-### AirBnb
+## AirBnb
 
 Uma outra opção que pode sair bem mais barata é ficar em algum
 [AirBnb][]. Para quem não conhece, é uma espécia de hotel que funciona
