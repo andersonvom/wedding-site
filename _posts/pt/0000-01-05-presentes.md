@@ -4,8 +4,10 @@ name: gifts
 categories: pt
 ---
 
-A gente acredita em um mundo melhor, então se você quer nos dar um
-presente, faça uma doação a uma das seguintes organizações:
+Verdade seja dita, a gente já tem todas as panelas e roupa de cama que
+não combinam que alguém pode querer! Se você deseja nos presentear, a
+gente adoraria que você fizesse uma doação para uma das organizações
+abaixo. Elas trabalham em coisas importantes para nós.
 
 - [Free Software Foundation][fsf]: "A Free Software Foundation (FSF -
   Fundação para o Software Livre) é uma organização sem fins lucrativos
