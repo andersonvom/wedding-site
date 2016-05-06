@@ -4,7 +4,9 @@ name: lodging
 categories: pt
 ---
 
-Aqui vão algumas opções de onde ficar.
+Fique à vontade para achar acomodações onde você desejar - a região de
+Washington D.C. certamente oferece muitos hoteis, bread and breakfasts,
+etc para você escolher. Contudo, aqui vão algumas opções:
 
 ## Marriott
 
