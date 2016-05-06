@@ -11,13 +11,13 @@ Reagan National Airport (DCA), Dulles International Airport (IAD) e
 Baltimore-Washington International Airport (BWI).  O preço médio das
 passagens está em torno de $700 a $900.
 
-O DCA é o mais conveniente de todos. Ele bem próximo ao centro de DC e
+*O DCA é o mais conveniente de todos*. Ele bem próximo ao centro de DC e
 tem uma estação de metrô dentro do aeroporto, o que não só facilita o
 desolamento até o hotel mas também é barato! Como ele não é um aeroporto
 internacional, você vai ter que fazer uma escala em alguma outra cidade
 primeiro. As mais comuns são Atlanta, Miami, Nova Iorque e Chicago.
 
-O IAD é a segunda melhor opção. Por ser um aeroporto internacional, há
+*O IAD é a segunda melhor opção*. Por ser um aeroporto internacional, há
 vôos diretos de São Paulo. Ele fica um pouco afastado do centro de DC e
 do local do casamento, então as opções de deslocamento são: taxi (entre
 $50 e $90, dependendo do local), [SuperShuttle][], que é uma espécie de
@@ -28,7 +28,7 @@ um taxi vai levar uns 30 minutos. Nunca usei o SuperShuttle, mas imagino
 que leve um pouco mais que pegar um táxi, e certamente bem menos que o
 metrô.
 
-O BWI é o pior de todos. Ele fica bem próximo de Baltimore e não tem
+*O BWI é o pior de todos*. Ele fica bem próximo de Baltimore e não tem
 acesso ao metrô. As únicas opções de transporte são [SuperShuttle][] (em
 torno de $55 + $10/pessoa) ou táxi (em torno de $130). Por ser longe, o
 trajeto de lá até DC deve levar um pouco mais de 1h.
