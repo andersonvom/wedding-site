@@ -9,9 +9,14 @@ img.en:lang(en), img.pt:lang(pt) {
   filter: none;
   -webkit-filter: grayscale(0);
 }
+
 #join-us {
   text-align: center;
   font-size: larger;
   border-bottom: 1px solid #eee;
   padding-bottom: 0.5em;
+}
+
+#navbar ul li:first-child {
+  font-weight: bolder;
 }
