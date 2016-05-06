@@ -4,10 +4,16 @@ name: gifts
 categories: pt
 ---
 
-Verdade seja dita, a gente já tem todas as panelas e roupa de cama que
-não combinam que alguém pode querer! Se você deseja nos presentear, a
-gente adoraria que você fizesse uma doação para uma das organizações
-abaixo. Elas trabalham em coisas importantes para nós.
+A gente só espera a sua companhia no dia do nosso casamento. Verdade
+seja dita, a gente já tem todas as panelas e roupa de cama que não
+combinam que alguém pode querer! Se você deseja nos presentear, a gente
+adoraria que você fizesse uma doação para uma das organizações abaixo.
+Elas trabalham em coisas importantes para nós.
+
+
+- [Abrigo São Lázaro][lazaro]: "O Abrigo São Lázaro é uma Organização
+  Não Governamental sem fins lucrativos que luta por uma vida melhor
+  para os animais abandonados em Fortaleza."
 
 - [Electronic Frontier Foundation][eff]: "A Electronic Frontier
   Foundation é uma organização sem fins lucrativos que defende as
@@ -29,6 +35,7 @@ abaixo. Elas trabalham em coisas importantes para nós.
   e onde pessoas e animais vivem juntos com alegria e compaixão."
 
 
+[lazaro]: http://www.abrigosaolazaro.org/como-ajudar/?referer=erin-and-anderson
 [fsf]: https://my.fsf.org/donate?referer=erin-and-anderson-wedding
 [eff]: https://supporters.eff.org/donate?referer=erin-and-anderson-wedding
 [whs]: https://secure3.convio.net/whsdc/site/Donation2?idb=0&df_id=6886&6886.donation=form1&referer=erin-and-anderson-wedding
