@@ -26,9 +26,9 @@ sem um cartão de crédito.
 O hotel fica do lado de um shopping com restaurantes, cinema e uma lagoa
 bonita.  A vantagem de ficar lá é que, dependendo do número de pessoas
 hospedadas, a gente pode providenciar um onibus para ir e voltar do
-casamento. O hotel fica a 10 minutos do local onde vai ser o casamento e
-de uma das estações de metrô (Shady Grove). Ele também tem um ônibus que
-transporta pessoas até a estação.
+casamento. O hotel fica a 10 minutos de carro do local onde vai ser o
+casamento e de uma das estações de metrô (Shady Grove). Ele também tem
+um ônibus que transporta pessoas até a estação.
 
 
 ## AirBnb
