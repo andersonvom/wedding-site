@@ -3,6 +3,7 @@ title: Coisas Para Fazer em DC
 name: todo
 categories: pt
 ---
+Para vocês que vão aproveitar essa viagem para conhecer a região metropolitana de Washington, DC, esperamos que os seguintes links ajudem a planejar sua visita!
 
 [O Que Fazer em Washington][1]
 
