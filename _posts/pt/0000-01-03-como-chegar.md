@@ -4,6 +4,19 @@ name: travel
 categories: pt
 ---
 
+## Local do Casamento
+
+<center>
+<iframe
+src="https://www.google.com/maps/d/u/1/embed?mid=1nd66ExzSZyTM7klUHf8wUB216oM"
+width="100%" height="515"></iframe>
+</center>
+Ver [mapa grande][map]
+
+Em caso de chuva, a cerimônia será realizada no local da recepção -
+McCathran Hall.
+
+
 ## Aeroportos
 
 Há três aeroportos que cobrem a região metropolitana de Washington DC:
@@ -64,3 +77,4 @@ para ir até as estações.
 [android]: https://play.google.com/store/apps/details?id=com.jazzmoonstewdio.android.dcmetro.activity
 [ios]: https://itunes.apple.com/us/app/dc-metro-and-bus/id578496721?mt=8
 [Uber]: https://www.uber.com/invite/4p1bz
+[map]: https://www.google.com/maps/d/u/0/viewer?mid=1nd66ExzSZyTM7klUHf8wUB216oM

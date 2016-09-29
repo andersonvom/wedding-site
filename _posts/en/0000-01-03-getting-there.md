@@ -4,6 +4,19 @@ name: travel
 categories: en
 ---
 
+## Wedding Site
+
+<center>
+<iframe
+src="https://www.google.com/maps/d/u/1/embed?mid=1nd66ExzSZyTM7klUHf8wUB216oM"
+width="100%" height="515"></iframe>
+</center>
+[View larger map][map]
+
+In the case of rain, ceremony will be held at the reception venue,
+McCathran Hall.
+
+
 ## Airports
 
 There are three airports serving the DC area: Reagan National Airport
@@ -47,3 +60,4 @@ to see arrival times in real time for [android][] e [ios][].
 [android]: https://play.google.com/store/apps/details?id=com.jazzmoonstewdio.android.dcmetro.activity
 [ios]: https://itunes.apple.com/us/app/dc-metro-and-bus/id578496721?mt=8
 [Uber]: https://www.uber.com/invite/4p1bz
+[map]: https://www.google.com/maps/d/u/0/viewer?mid=1nd66ExzSZyTM7klUHf8wUB216oM
